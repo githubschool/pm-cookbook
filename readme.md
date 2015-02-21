@@ -14,7 +14,7 @@ This repository is the back-end for a public GitHub pages site which uses the id
   - If a folder does not exist for your recipe's category, feel at complete liberty to create one :smiley:
 4. Open a Pull Request and describe the changes you are proposing
 
-Once reviewed, pull requests can be merged into the `gh-pages` branch by project collaborators.  This will automatically publish the changes to the public site at http:githubschool.github.io/pm-cookbook.
+Once reviewed, pull requests can be merged into the `gh-pages` branch by project collaborators.  This will automatically publish the changes to the public site at http://githubschool.github.io/pm-cookbook.
 
 
 ## Recipe Template
