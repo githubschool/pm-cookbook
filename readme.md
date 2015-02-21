@@ -14,6 +14,55 @@ This repository is the back-end for a public GitHub pages site which uses the id
 Once reviewed, pull requests can be merged in by project collaborators.
 
 
+## Recipe Template
+
+```Markdown
+---
+layout: recipe
+title:  "Lemon Icebox Pie"
+date:   2015-02-20 15:16:04
+category: "Dessert"
+---
+
+*Serves 8*
+
+### Ingredients
+
+**Crust**
+
+- 2 cups graham crackers (crushed)
+- 1 stick melted butter
+- 1/2 cup sugar
+
+**Filling**
+
+- 3 egg yolks (set whites aside)
+- 1 can sweetened condensed milk
+- Juice of 3 lemons
+
+**Meringue**
+
+- 3 egg whites
+- 1/4 tsp. cream of tartar
+- 1/4 cup sugar
+
+
+### Preparation
+
+**To make the crust:**
+
+Heat the oven to 325°F. Break the graham crackers into small pieces and place in the bowl of a food processor along with the sugar and salt. Pulse 8 times, until the cracker crumbs are semi-fine (they shouldn't be powdery but not in large shards either) and the crackers and sugar are combined. Pour in the butter and pulse until the butter is blended in and the mixture isn't crumbly and holds its shape when you squeeze it, about twelve 1-second pulses. Transfer the crust to a 9-inch springform pan and push and press the crumb mixture into the bottom and two-thirds of the way up the sides of the pan. Use the bottom of a measuring cup to press the crust into place. Set aside.
+
+
+**To make the filling:**
+
+Whisk the condensed milk with the lemon juice and set aside. Whisk the zest with the egg yolks in a medium bowl until pale, 30 to 60 seconds, and then whisk in the lemon juice-condensed milk mixture.
+
+Place the springform pan on a rimmed baking sheet, pour the mixture into the crust, and carefully transfer the baking sheet to the oven. Bake until the center jiggles slightly, like a soft-setting custard, about 25 minutes. Remove from the oven and cool for 1 hour on a cooling rack. Loosely cover the pan with plastic wrap (be careful not to let the plastic wrap touch the top of the pie) and freeze for at least 6 hours or overnight.
+
+```
+
+
 ## Requesting Recipes for this Cookbook
 
 To request a recipe be added to this cookbook, please open an issue.
