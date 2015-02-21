@@ -2,19 +2,31 @@
 layout: default
 ---
 
+{% assign categories = site.recipes | group_by: "category" | sort: "name" %}
+
 <div class="home">
 
   <h1 class="page-heading">Recipes</h1>
 
-  <ul class="post-list">
-    {% for recipe in site.recipes %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  {% for category in categories %}
+
+    <h4 class="recipe-category-list">{{ category.name }}</h4>
+
+
+      <ul class="post-list">
+
+        {% for recipe in site.recipes %}
+          <li>
+            <h2>
+              <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.title }}</a>
+            </h2>
+          </li>
+        {% endfor %}
+
+      </ul>
+
+  {% endfor %}
+
 
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 

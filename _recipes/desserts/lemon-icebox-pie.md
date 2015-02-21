@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Lemon Icebox Pie"
 date:   2015-02-20 15:16:04
-categories: dessert
+category: "Dessert"
 ---
 
 *Serves 8*
