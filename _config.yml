@@ -1,0 +1,18 @@
+# Site settings
+title: Project Management Cookbook
+email: training@github.com
+description: > # this means to ignore newlines until "baseurl:"
+  This site is for demonstrating project management tools available with GitHub.
+  These tools help project managers ensure transparent communication, resolve conflicts, track requirements and milestones, and many other common tasks.
+baseurl: "/pm-cookbook" # the subpath of your site, e.g. /blog/
+url: "http://githubschool.github.io" # the base hostname & protocol for your site
+twitter_username: githubtraining
+github_username:  githubtraining
+
+# Build settings
+markdown: kramdown
+
+# Collection Settings
+collections:
+  recipes:
+    output: true
