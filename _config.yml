@@ -11,3 +11,8 @@ github_username:  githubtraining
 
 # Build settings
 markdown: kramdown
+
+# Collection Settings
+collections:
+  recipes:
+    output: true
