@@ -72,6 +72,10 @@ category: "Dessert"
 
 ```
 
+## Corrections
+
+To submit corrections, please refer to the contribution guidelines above.  To report an error, feel free to open an issue [here](https://github.com/githubschool/pm-cookbook/issues/new).
+
 
 ## Requesting Recipes for this Cookbook
 
