@@ -27,5 +27,4 @@ category: "Dessert"
 - 1/4 tsp. cream of tartar
 - 1/4 cup sugar
 
-
 ### Preparation
