@@ -28,3 +28,6 @@ category: "Dessert"
 - 1/4 cup sugar
 
 ### Preparation
+
+- Put all the ingredients for the crust together
+- Bake!
