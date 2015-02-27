@@ -30,4 +30,7 @@ category: "Dessert"
 ### Preparation
 
 - Put all the ingredients for the crust together
+- Combine the ingredients for the filling
+- Put ingredients into crust
+- Make meringue topping
 - Bake!
