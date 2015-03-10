@@ -2,7 +2,7 @@
 
 ## About this Repository
 
-This repository is the back-end for a public GitHub pages site which uses the idea of a cookbook to illustrate project management tools in GitHub.
+This repository is the back-end for a public GitHub Pages site which uses the idea of a cookbook to illustrate project management tools in GitHub.
 
 ## Adding Recipes to this Cookbook
 
