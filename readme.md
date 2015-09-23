@@ -1,6 +1,6 @@
 # Project Management Cookbook
 
-## About this Repository
+## About this Repository:
 
 This repository is the back-end for a public GitHub Pages site which uses the idea of a cookbook to illustrate project management tools in GitHub.
 
