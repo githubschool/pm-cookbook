@@ -16,11 +16,13 @@ layout: default
       <ul class="post-list">
 
         {% for recipe in site.recipes %}
-          <li>
-            <h2>
-              <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.title }}</a>
-            </h2>
-          </li>
+          {% if recipe.category contains category.name %}
+            <li>
+              <h2>
+                <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.title }}</a>
+              </h2>
+            </li>
+          {% endif %}
         {% endfor %}
 
       </ul>
