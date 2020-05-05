@@ -1,10 +1,3 @@
----
-layout: recipe
-title:  "Home-made Apple sauce"
-date:   2020-05-05 15:16:04
-category: "Dessert"
----
-
 Home Made Apple Sauce Recipe
 ===
 
